@@ -1,0 +1,24 @@
+.one{
+	color:blue;
+	font-size:25px;
+}
+h1#three{
+	color:red;
+	font-size:25px;
+}
+h2.two{
+	color:yellow;
+	font-size:25px;
+}
+section.container h2.two{
+	color:violet;
+	font-size:25px;
+}
+section.container h2#hi{
+	color:violet;
+	font-size:25px;
+}
+h2#hi{
+	color:brown;
+	font-size:25px;
+}
